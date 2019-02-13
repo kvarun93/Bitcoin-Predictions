@@ -1,6 +1,5 @@
-######### Practice Set 1  ###########
+
 #### Varun Varadaraj Kandasamy ######
-########### vxk161230  #############
 
 # Packages that are responsible for connecting the database and extracting the information
 library(data.table)
