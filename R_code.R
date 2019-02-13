@@ -1,5 +1,5 @@
 
-#### Varun Varadaraj Kandasamy ######
+###### Varun Varadaraj Kandasamy ######
 
 # Packages that are responsible for connecting the database and extracting the information
 library(data.table)
